@@ -38,7 +38,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 14.Make Prediction on a New Sample Input 
 
 ## Program:
-```
+```python
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: MUSFIRA MAHJABEEN M
